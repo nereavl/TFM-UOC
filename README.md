@@ -1,5 +1,8 @@
 ## **TFM**
-Caracterización molecular de las inversiones cromosómicas en Drosophila subobscura
+Caracterización molecular de las inversiones cromosómicas en Drosophila subobscura.
+
+The scripts follow the methodology presented in [Merayo et al., (2025) *Insects*](https://doi.org/10.3390/insects16060586), with some modifications
+
 
 ## **Requirements**
 To run this pipeline, ensure the following tools are installed:
